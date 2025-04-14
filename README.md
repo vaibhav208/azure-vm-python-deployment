@@ -1,6 +1,4 @@
-# ![Uploading Screenshot (143).png…]()
-![Screenshot (144)](https://github.com/user-attachments/assets/8e96f52a-754f-463f-b993-05ba7522ab30)
-Cloud Infrastructure & Deployment (Azure VM + Python)
+# Cloud Infrastructure & Deployment (Azure VM + Python)
 
 This project demonstrates how to deploy a simple Python (Flask) web application on an Azure Virtual Machine using the Azure GUI.
 
